@@ -1,0 +1,7 @@
+# Arduino / editor generated files
+*.tmp
+*.bak
+*.swp
+.DS_Store
+.vscode/
+.idea/
